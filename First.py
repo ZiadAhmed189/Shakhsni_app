@@ -1,4 +1,7 @@
 from math import *
+#
+#
+#
 # Question 1:-
 def fact (num) :
     f = 1 
