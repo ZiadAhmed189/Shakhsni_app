@@ -2,6 +2,7 @@ from math import *
 #
 #
 #
+## zIAD
 # Question 1:-
 def fact (num) :
     f = 1 
