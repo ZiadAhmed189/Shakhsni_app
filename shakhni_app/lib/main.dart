@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
     // TODO: implement build
     return MaterialApp(
       home: Text("Ziad"),
+      debugShowCheckedModeBanner:  false,
     );
   }
-
 }
